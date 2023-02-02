@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{64702871-7E28-FC0A-8F1D-360C51E029B6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ixBibcamController/BibcamController.cs">
+    <Files>
+      <File FileName="Packages/jp.keijiro.bibcam/Encoder/Scripts/BibcamEncoder.cs" Line="71" Column="22" />
+      <File FileName="Library/PackageCache/jp.keijiro.avfi@1.0.3/Runtime/VideoRecorder.cs" Line="33" Column="16" />
+      <File FileName="Assets/ixBibcamController/BibcamController.cs" Line="79" Column="66" />
+      <File FileName="Packages/jp.keijiro.bibcam/Encoder/Shaders/Encoderhue.shader" Line="1" Column="1" />
+      <File FileName="Library/PackageCache/jp.keijiro.avfi@1.0.3/Runtime/Plugins/Plugin.cs" Line="16" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="videorecorder-main" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AprilTag.Runtime PreferredExecutionTarget="f4abf8d4-5217-4748-8d20-774bd9c1ac04" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

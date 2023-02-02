@@ -1,0 +1,9 @@
+
+=== Wed Feb  1 16:01:39 2023
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.xr.arfoundation from version 4.2.3 to 4.2.7
+  com.unity.xr.arkit from version 4.2.3 to 4.2.7

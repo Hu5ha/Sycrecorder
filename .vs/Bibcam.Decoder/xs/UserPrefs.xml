@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{6DD36712-2FB8-663C-75C6-41A61119EAF6}|">
+  <MonoDevelop.Ide.ItemProperties.Bibcam.Decoder PreferredExecutionTarget="9fac9158-7394-4a9a-ab32-7eb13d5ed03e" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bibcam.Decoder" expanded="True">
+            <Node name="Assets" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
